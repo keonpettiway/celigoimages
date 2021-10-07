@@ -1,1 +1,22 @@
 
+.bottom-feedback-container {margin-left:0 !important}
+.px-close-button {top:5px}
+.step-wrapper {width:auto !important; margin-bottom:50px; border-radius:4px !important; padding-top:10px}
+
+.buttons svg:first-of-type {background-image: url("https://static.thenounproject.com/png/4210690-200.png")}
+
+.buttons svg:last-of-type {background-image: url("https://static.thenounproject.com/png/859452-200.png")}
+
+.buttons svg:nth-child(2n+0) {background-image: url("https://static.thenounproject.com/png/2102578-200.png")}
+
+.buttons svg:nth-child(4n+0) {background-image: url("https://static.thenounproject.com/png/3902183-200.png")}
+
+.buttons svg:nth-child(3n+0) {background-image: url("https://static.thenounproject.com/png/1636144-200.png")}
+
+
+.rating-button svg {visibility:hidden}
+.rating-button  {
+background-image: url("https://static.thenounproject.com/png/1190202-200.png");
+background-size:contain}
+
+.rating-button g {visibility:hidden}
